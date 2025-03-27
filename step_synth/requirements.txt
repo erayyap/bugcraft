@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchain-google-genai
+tavily-python
+moviepy
+Pillow
