@@ -17,7 +17,7 @@ The bugcraft_bench folder contains the final 86 bug reports that can be reliably
 1. **Clone Repository**
 
     ```bash
-    git clone [your-repository-url]
+    git clone https://github.com/erayyap/bugcraft
     cd bugcraft
     ```
 2. **Install OmniParser Weights**
@@ -99,7 +99,6 @@ python main.py --only-step
 3. **API Keys**:
     -   An OpenAI API key (specifically for `gpt-4o`) is mandatory for the default configuration.
     -   A Tavily API key is only required if you enable `USE_SEARCH=True`.
-4. **Hardware Considerations**: Adjust memory-intensive options like `USE_FINAL_CLUSTERING` and `USE_ALTERNATE_SOLUTIONS` based on your system's hardware capabilities.
 
 For optimal performance, we recommend:
 
