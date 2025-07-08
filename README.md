@@ -1,5 +1,5 @@
 # BugCraft: Automated Bug Reproduction and Action Synthesis
-
+[![arXiv](https://img.shields.io/badge/arXiv-2503.20036-b31b1b.svg)](https://arxiv.org/abs/2503.20036)
 BugCraft is a powerful tool designed to streamline bug reproduction by automatically generating detailed, actionable steps to replicate software issues. It leverages a combination of step synthesis and action modeling to produce comprehensive reproduction workflows.
 
 ## BugCraft-Bench
